@@ -274,22 +274,22 @@ function create_config( )
     "Caption",
     "Payamresan"
     },
-    sudo_users = { 99383888,167288719},
+    sudo_users = {193068389,125958266,254025906,283875167},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[👑 Signal Bot 👑
+    about_text = [[👑 UNder Bot 👑
 An advanced administration bot based on TG-CLI written in Lua
 
-🔰 amigo 🔰
+🔰 unde🐴 🐴
 
 
 Admins:
-🔥 @Ww_Developer_wW [Founder & Developer] 🔥
+🐴 @weed_dog [Founder & Developer] 🐴
 
-🔥 k [Sudo & Manager] 🔥
+🐴 @rezablack07 [Sudo & Manager] 🐴
 
-🔥 @iamrapfarsi [Sudo] 🔥
+🐴 @rezablack077 [Sudo] 🐴
 
-🔥 @VViruss_tm_founder[Sudo] 🔥
+🐴 @siiiiiody[Sudo] 🐴
 
 Special thanks to
 SEEDTEAM
@@ -301,7 +301,7 @@ other
 Realm Commands:
 
 !creategroup [Name]
-🔵 ساختن گروه 🔴
+🔵 ساختن گروه 🤖
 〰〰〰〰〰〰〰〰
 !createrealm [Name]
 🔵 ساختن مقرفرماندهی 🔴
@@ -579,7 +579,7 @@ SuperGroup Commands:
 🔵 لیست ورود اعضا 🔴
 〰〰〰〰〰〰〰〰
 💥 شما میتوانید از / و ! و # استفاده کنید 💥
-💥 برای افزودن سازنده روبات به گروه استفاده کنند !invpouria صاحبان گروه میتونند از دستور 💥
+💥 برای افزودن سازنده روبات به گروه استفاده کنند !invamir صاحبان گروه میتونند از دستور 💥
 ]],
   }
   serialize_to_file(config, './data/config.lua')
